@@ -11,3 +11,21 @@
     margin-inline: auto;
 }
 
+.navigation .box-navigation {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0 15px 0;
+}
+
+.navigation .box-navigation .menu-navigation ul {
+    display: flex;
+}
+
+.navigation .box-navigation .menu-navigation ul li {
+    list-style-type: none;
+    margin-right: 40px;
+}
+
+.navigation .box-navigation .menu-navigation ul li a {
+    text-decoration: none;
+}
