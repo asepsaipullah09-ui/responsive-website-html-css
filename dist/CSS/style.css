@@ -18,6 +18,11 @@
     align-items: center;
 }
 
+.navigation .box-navigation .logo h1 {
+    color: #ff3838;
+    font-size: 32px;
+}
+
 .navigation .box-navigation .menu-navigation ul {
     display: flex;
 }
