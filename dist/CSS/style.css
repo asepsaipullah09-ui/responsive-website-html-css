@@ -49,6 +49,10 @@
     display: none;
 }
 
+.navigation .box-navigation .menu-bar i {
+    font-size: 28px;
+}
+
 @media screen and (max-width: 990px) {
     .navigation .box-navigation .menu-bar {
         display: block;
